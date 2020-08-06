@@ -13,6 +13,8 @@ int main() {
 	cout<<res[i]<<" ";
 	return 0;
 //change
+
+//in dev branch
 }
 void powerSets(string str, int index , 
               string curr) 
